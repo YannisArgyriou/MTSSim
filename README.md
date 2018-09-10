@@ -3,7 +3,7 @@ This repository contains the IDL-to-python converted MIRI Telescope Simulator co
   
 List of notebooks:  
 0 - MTSSim from IDL to Python  
-1 - MTSSim step-by-step
-2 - Create MTSSim spectra
+1 - MTSSim step-by-step  
+2 - Create MTSSim spectra  
 3 - Convert spectra to equivalent radiance (MRS)  
 
